@@ -4,7 +4,7 @@
 
 Once the paper is accepted by the journal, we will make the code public as soon as possible.
 
-- Our paper on arXiv: [Triad: Vision Foundation Model for 3D Magnetic Resonance Imaging]([https://arxiv.org](https://arxiv.org/pdf/2502.14064)) :heart:
+- Our paper on arXiv: https://arxiv.org/pdf/2502.14064 :heart:
 
 
 
@@ -26,4 +26,4 @@ Once the paper is accepted by the journal, we will make the code public as soon 
 
 ## Acknowledgments
 
-- This project is based on [VoCo v2]([https://github.com/](https://github.com/Luffy03/Large-Scale-Medical)).
+- This project is based on VoCo v2:  https://github.com/Luffy03/Large-Scale-Medical
