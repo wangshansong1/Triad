@@ -1,4 +1,4 @@
-# <p align=center>`Triad: Vision Foundation Model for 3D Magnetic Resonance Imaging`</p>
+# <p align=center>`Vision foundation model for 3D magnetic resonance imaging segmentation, classification, and registration`</p>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) ![Paper Status](https://img.shields.io/badge/Paper%20Status-Accepted%20by%20Medical%20Image%20Analysis-brightgreen)
 
@@ -13,9 +13,16 @@ This repository provides a minimal example in [QuickStart.py](/data/Code2025/3DS
 Available weights in this directory:
 
 - `Triad-PlainConvUNet-MAE.pth`
+  https://drive.google.com/file/d/1Mc5owEFhWkroe5Hjnk7Ex8v6Z-aBKF3U/view?usp=drive_link
+
 - `Triad-PlainConvUNet-SimMIM.pth`
+  https://drive.google.com/file/d/1EkrYbuNI64yi1_Yl4JZUM5yZ5K0mHzR3/view?usp=drive_link
+
 - `Triad-SwinB-MAE.pth`
+  https://drive.google.com/file/d/1F_6TNrCxPyqk-bPzXj0HHLxFy9mbNzjl/view?usp=drive_link
+
 - `Triad-SwinB-SimMIM.pth`
+  https://drive.google.com/file/d/1icLjmSpTdEAA9kEW3BWHnAYv-hsXMYxS/view?usp=drive_link
 
 ### PlainConvUNet
 
@@ -60,11 +67,16 @@ python QuickStart.py
 ## Citation
 
 ```bibtex
-@article{wang2025triad,
-  title={Triad: Vision Foundation Model for 3D Magnetic Resonance Imaging},
-  author={Wang, Shansong and Safari, Mojtaba and Li, Qiang and Chang, Chih-Wei and Qiu, Richard LJ and Roper, Justin and Yu, David S and Yang, Xiaofeng},
-  journal={arXiv preprint arXiv:2502.14064},
-  year={2025}
+@article{WANG2026103992,
+title = {Vision foundation model for 3D magnetic resonance imaging segmentation, classification, and registration},
+journal = {Medical Image Analysis},
+volume = {110},
+pages = {103992},
+year = {2026},
+issn = {1361-8415},
+doi = {https://doi.org/10.1016/j.media.2026.103992},
+url = {https://www.sciencedirect.com/science/article/pii/S1361841526000617},
+author = {Shansong Wang and Mojtaba Safari and Qiang Li and Chih-Wei Chang and Richard {LJ Qiu} and Justin Roper and David S. Yu and Xiaofeng Yang},
 }
 ```
 
